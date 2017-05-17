@@ -4,7 +4,10 @@ My personal [Homebrew][h] tap containing homebrew formulas
 
 ## What does it contain?
 
-* **latexdiff** Mark up significant differences between LATEX files
+* **latexdiff** Mark up significant differences between LATEX files 
+
+* **git-latexdiff** Wrapper around git and latexdiff
+
 
 ## Installation
 
