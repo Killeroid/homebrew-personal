@@ -4,9 +4,16 @@ My personal [Homebrew][h] tap containing homebrew formulas
 
 ## What does it contain?
 
+### Formulas
+
 * **latexdiff** Mark up significant differences between LATEX files 
 
 * **git-latexdiff** Wrapper around git and latexdiff
+
+
+### Casks
+
+* **midi-patchbay** MIDI Patchbay application
 
 
 ## Installation
@@ -21,4 +28,10 @@ Once you've tapped it, you can then install any of the formulas in this tap like
 
 ```
 $ brew install <formula>
+```
+
+You can install any of the formulas in this tap like this
+
+```
+$ brew cask install <cask>
 ```
