@@ -15,6 +15,8 @@ My personal [Homebrew][h] tap containing homebrew formulas
 
 * **midi-patchbay** MIDI Patchbay application
 
+* **hosting-au** Hosting AU microDAW 
+
 
 ## Installation
 
