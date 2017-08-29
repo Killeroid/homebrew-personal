@@ -17,6 +17,8 @@ My personal [Homebrew][h] tap containing homebrew formulas
 
 * **hosting-au** Hosting AU microDAW 
 
+* **captin** A tool to show Mac caps lock status
+
 
 ## Installation
 
