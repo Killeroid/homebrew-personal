@@ -19,6 +19,8 @@ My personal [Homebrew][h] tap containing homebrew formulas
 
 * **captin** A tool to show Mac caps lock status
 
+* **EnvPane** A preference pane for environment variables
+
 
 ## Installation
 
