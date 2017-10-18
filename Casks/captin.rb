@@ -7,7 +7,7 @@ cask 'captin' do
   name 'Captin'
   homepage 'http://captin.strikingly.com/'
 
-  auto_updates 'yes'
+  auto_updates true
 
   app 'Captin.app'
 
